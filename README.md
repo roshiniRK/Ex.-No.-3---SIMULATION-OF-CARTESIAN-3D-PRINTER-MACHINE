@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+# Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 27/04/2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -60,8 +60,9 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: ROSHINI R K
+### Register Number: 212222230123
+![image](https://github.com/SaravananPV3010/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139754526/936b6c7f-74f9-4f0c-9862-297c50ff7be9)
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
